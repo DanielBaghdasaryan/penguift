@@ -30,6 +30,10 @@ function App() {
           Log In
         </a>
 
+        {/*<div>*/}
+        {/*  <img src='./logo.svg' alt="Logo" style={{ marginLeft: '30px', height: '50px' }} />*/}
+        {/*</div>*/}
+
       </div>
       <div style={{ marginTop: '-10%', display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
         <div style={{
@@ -61,7 +65,7 @@ function App() {
             paddingLeft: '20px',
             marginTop: '30px',
           }}>
-            Goft&nbsp;Now
+            Gift&nbsp;Now
           </div>
 
         </a>
