@@ -26,6 +26,7 @@ function App() {
         justifyContent: 'flex-end',
         alignItems: 'center',
       }}>
+        {/* eslint-disable-next-line jsx-a11y/anchor-is-valid */}
         <a href='#' style={{ textDecoration: 'none', color: 'white', marginRight: '30px', fontSize: '20px' }}>
           Log In
         </a>
