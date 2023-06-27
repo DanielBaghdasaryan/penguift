@@ -26,7 +26,7 @@ function App() {
         justifyContent: 'flex-end',
         alignItems: 'center',
       }}>
-        <a href='' style={{ textDecoration: 'none', color: 'white', marginRight: '30px', fontSize: '20px' }}>
+        <a href='#' style={{ textDecoration: 'none', color: 'white', marginRight: '30px', fontSize: '20px' }}>
           Log In
         </a>
 
