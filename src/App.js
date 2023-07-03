@@ -44,7 +44,7 @@ function App() {
           color: '#006a2a',
           lineHeight: 2
         }}>
-          Send gifts to Anyone & Anywhere<br /><span style={{ color: '#6e4100' }}>No address needed</span> &#128521;
+          Gift Anyone, Anywhere - No Address Required &#128521;
         </div>
         <div style={{ color: '#005d25', fontSize: '20px', marginTop: '20px', paddingRight: '10px', paddingLeft: '10p' }}>
           Send online gifts through text, email or messages and pay only for the ones that get accepted
